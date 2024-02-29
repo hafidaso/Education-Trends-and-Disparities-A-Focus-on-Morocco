@@ -30,3 +30,6 @@ The analysis report provides insights into various aspects of education in Moroc
 
 ### Conclusion
 The Education Trends and Disparities Analysis project offers valuable insights into the state of education in Morocco, providing a foundation for informed decision-making and policy development. By identifying key trends, disparities, and areas for improvement, the project contributes to efforts aimed at enhancing educational outcomes and promoting inclusive and equitable access to education for all segments of society.
+
+
+For more information, please visit my [Hafida Belayd](https://www.linkedin.com/in/hafida-belayd). 
